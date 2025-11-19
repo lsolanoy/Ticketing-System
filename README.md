@@ -2,7 +2,7 @@
 
 
 <h1>Ticketing System</h1>
-A ticketing system is a software platform designed to manage and track service requests using records called tickets. These requests can include changes, incidents or problems that users are experiencing. Thay allow IT teams to resolve issues in a strcutured format by avoiding duplication, tracking ownership and sorting by serverity. The most common ticketing systems seen today are toolslike ServiceNow, Jira or Zendesk.
+A ticketing system is a software platform designed to manage and track service requests using records called tickets. These requests can include changes, incidents or problems that users are experiencing. They allow IT teams to resolve issues in a strcutured format by avoiding duplication, tracking ownership and sorting by serverity. The most common ticketing systems seen today are toolslike ServiceNow, Jira or Zendesk.
 <h2>Description</h2>
 In this lab, we will be simulating a real-world IT support environment using Spiceworks Help Desk. The goal is to configure, customize, and operate a functional ticketing system that mirrors enterprise-level workflows. The lab emphasizes hands-on experience with user management, ticket lifecycle stages, and service request handling.
 <br />
