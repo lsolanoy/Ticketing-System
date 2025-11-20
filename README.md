@@ -10,10 +10,32 @@ In this lab, we will be simulating a real-world IT support environment using Spi
 <h2>Technologies Used</h2>
 
 - <b>VirtualBox</b> 
-- <b>Ubuntu Linux</b>
 - <b>Windows 11</b>
 - <b>Spiceworks</b>
 
 <h2>Lab walk-through:</h2>
 
 Spiceworks Set-up
+
+1. Log on to Windows VM > Open Web Browser > Search for "Spiceworks" and click first link > Create a free account with email.
+ <br/>
+<img width="1024" height="771" alt="image" src="https://github.com/user-attachments/assets/6b7998cc-9e64-4590-a733-027922d23a66" />
+<br />
+<br />
+
+2. Once signed in with your new account, at the top of the main menu click on "IT tools" > Cloud Help Desk. You will brought to another page to set up your ticketing system.
+ <br/>
+<img width="1022" height="769" alt="image" src="https://github.com/user-attachments/assets/d90c9a0e-dbea-4b0f-af9a-d8acf8659ebd" />
+ <br/>
+<br />
+
+ 3. Fill out the necessary information and once finsished you will have access to the system.
+ <br/>
+<img width="1022" height="769" alt="image" src="https://github.com/user-attachments/assets/438321df-bf8a-4d26-a5bb-ce538925904e" />
+<img width="1918" height="1012" alt="image" src="https://github.com/user-attachments/assets/9140a298-6224-4605-b987-ee6bc19ac722" />
+ <br/>
+<br />
+
+Ticket Creation
+
+
