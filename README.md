@@ -38,4 +38,5 @@ Spiceworks Set-up
 
 Ticket Creation
 
+First, we will demonstrate ticket creation from the user end. 
 
