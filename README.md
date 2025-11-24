@@ -38,5 +38,23 @@ Spiceworks Set-up
 
 Ticket Creation
 
-First, we will demonstrate ticket creation from the user end. 
+First, we will demonstrate ticket creation. The goal is to understand how tickets are created and categorized. For this ticket, we will simluate a user creating a ticket because they got locked out of thier account.
+
+1. On main menu, click "New Ticket". A new window  will pop up asking us to fill it in with information.
+ <br/>
+<img width="653" height="752" alt="image" src="https://github.com/user-attachments/assets/7da64ed8-4047-463d-b82b-65c14c0f9340" />
+ <br/>
+<br />
+
+2. Fill in the details about the issue. The more details the better. The user will put their information in the contact box. For the summary, give an overview of the issue and also put the computer name if possible to make it easier for the tech. In the description, exaplin the issue and everything you have done so far. Also, list all the programs, apps or hardware involved. You can also add a time when you are available to speak and where they can find you. For the priority level, it depends on the user by how they feel the issue should be priroitized. Fill in the category(e.g hardware, software, network) based on the issue. Lastly, you can add an picture to give more information. Click create.
+ <br/>
+<img width="600" height="731" alt="image" src="https://github.com/user-attachments/assets/a04840a7-6445-46a8-b75b-4b84804a2529" />
+ <br/>
+<br />
+
+3. The ticket will populate in the ticketing queue will all the other tickets.
+ <br/>
+<img width="1599" height="740" alt="image" src="https://github.com/user-attachments/assets/a2b654ad-99f1-422a-9773-28627ced4c55" />
+ <br/>
+<br />
 
