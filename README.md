@@ -58,3 +58,43 @@ First, we will demonstrate ticket creation. The goal is to understand how ticket
  <br/>
 <br />
 
+Resolving a Ticket and Documentation
+
+Now, we will demonstrate how properly resolve a ticket and close it. In this task, we will document steps for resolution with the user, update the ticket notes, and close the ticket. We will use previous ticket created.
+
+1. As a tech, you will see all the tickets in the ticketing queue. We will solve the ticket dealing with the user with a locked account. Click on ticket.
+ <br/>
+<img width="1600" height="876" alt="image" src="https://github.com/user-attachments/assets/57304423-88bf-44a4-b0ee-b1ab37fd199d" />
+ <br/>
+<br />
+
+2. In the ticket chat, the tech will respond to the user with the root issue they found and the steps they took to fix it. They must explain it in a way that is clear and easy to understand. If you want to add more details about the issue that you would like only your team to see, you can change "public response" to "internal note" in the bottom left corner. These notes can be used for reference if a similar issues occurs in the future. Always verify with user that the issue has been resolved.
+ <br/>
+<img width="1913" height="820" alt="image" src="https://github.com/user-attachments/assets/bad807f6-d4b1-4491-8264-cc0ce01a7ad1" />
+ <br/>
+<br />
+
+3. If the user responds back that the issue has been fixed, the ticket can now be closed.
+ <br/>
+<img width="1913" height="874" alt="image" src="https://github.com/user-attachments/assets/2ebf205e-0944-49d0-81ed-f102c27a7c59" />
+ <br/>
+<br />
+
+4. To close the ticket, your have to click the "close" button on the right-hand side of the screen. Once closed, the ticket will be removed from the ticketing queue.
+ <br/>
+<img width="1534" height="616" alt="image" src="https://github.com/user-attachments/assets/27575e14-6582-47ba-a49c-fde4a9acd711" />
+ <br/>
+<br />
+
+5. If you want to see closed tickets, you can filter your tickets from "open" to "closed".
+ <br/>
+<img width="1660" height="604" alt="image" src="https://github.com/user-attachments/assets/843f7c19-0cad-4ff1-ba15-2829007909a2" />
+ <br/>
+<br />
+
+Escalation Process
+
+Lastly, we will demonstrate the process of escalation. You may encounter an issue you can't resolve on your level because of limited access so you must escalate the issue to a different team or a higher team. 
+
+1. For this scenario, users a experiencing wi-fi connectivity issues in their classrooms
+
