@@ -96,5 +96,21 @@ Escalation Process
 
 Lastly, we will demonstrate the process of escalation. You may encounter an issue you can't resolve on your level because of limited access so you must escalate the issue to a different team or a higher team. 
 
-1. For this scenario, users a experiencing wi-fi connectivity issues in their classrooms
+1. For this scenario, users are experiencing wi-fi connectivity issues in their floor and they create a ticket in the queue.
+ <br/>
+<img width="602" height="640" alt="image" src="https://github.com/user-attachments/assets/dba6883d-4e99-4079-9815-5ec73905ed5a" />
+ <br/>
+<br />
+
+2. As a level 1 tech, you go through all your troubleshooting steps to find the issue. You find that multiple users are not able to connect to the internet and it may be a network infrastructure issue. This requires higher permissions to be able to fix.
+ <br/>
+<img width="1526" height="726" alt="image" src="https://github.com/user-attachments/assets/cfe6ac8b-c057-4e00-9841-fa6b008f7ee1" />
+ <br/>
+<br />
+
+3. To escalate to issue, you change the assignment of the ticket to a memeber of the proper team. In this sceanrio, it would be the network team. You would do this by navigating to the ride side and chossing the memeber under "Assignee". After, you would write a message in the ticket chat to the user and team member you are escalating the ticket.
+ <br/>
+<img width="1539" height="486" alt="image" src="https://github.com/user-attachments/assets/c84603c3-b318-410f-80b2-69254d719af1" />
+ <br/>
+<br />
 
